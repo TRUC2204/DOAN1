@@ -25,20 +25,20 @@ Hệ thống có khả năng:
 
 ## 📦 Sơ đồ khối hệ thống
 
-![Sơ đồ khối](CHEN-LINK-HOAC-DUONG-DAN-ANH-KHOI.png)
+![Sơ đồ khối](https://github.com/TRUC2204/DOAN1/blob/main/img/SDK.png)
 
 ---
 
 ## 📐 Sơ đồ nguyên lý
 
-![Sơ đồ nguyên lý](CHEN-LINK-HOAC-DUONG-DAN-ANH-NGUYEN-LY.png)
+![Sơ đồ nguyên lý](https://github.com/TRUC2204/DOAN1/blob/main/img/SDNL.png)
 
 ---
 
 ## ✅ Kết quả sản phẩm
 
-![Ảnh sản phẩm](CHEN-ANH-SAN-PHAM-1.png)  
-![Ảnh sản phẩm](CHEN-ANH-SAN-PHAM-2.png)
+![Ảnh sản phẩm](https://github.com/TRUC2204/DOAN1/blob/main/img/SP1.png)  
+![Ảnh sản phẩm](https://github.com/TRUC2204/DOAN1/blob/main/img/SP2.png)
 
 > Ảnh chụp sản phẩm hoàn chỉnh sau khi lắp ráp và thử nghiệm.
 
