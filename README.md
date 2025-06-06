@@ -46,6 +46,6 @@ Hệ thống có khả năng:
 
 ## 🎬 Video demo
 
-[👉 Xem video demo tại đây]((https://youtu.be/67-N2rUnu7I))
+[👉 Xem video demo tại đây](https://youtu.be/67-N2rUnu7I)
 
 ---
